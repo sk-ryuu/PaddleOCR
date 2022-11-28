@@ -12,7 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 from .paddleocr import *
-from .textRecoginition import TextRecoginition
 __version__ = paddleocr.VERSION
 # __all__ = [
 #     'PaddleOCR', 'PPStructure', 'draw_ocr', 'draw_structure_result',
